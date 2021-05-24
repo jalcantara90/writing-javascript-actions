@@ -1,5 +1,5 @@
 
-name: CI
+name: JS Actions
 on: [push]
   
 jobs:
